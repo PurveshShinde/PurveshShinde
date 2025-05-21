@@ -10,7 +10,7 @@ I'm a passionate software developer specializing in Artificial Intelligence (AI)
 
 📫 You can reach me at: 📧 [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com)
 
-⚡ Fun fact: I enjoy music 🎶, anime 🎬, and spending time in nature 🏞️.
+⚡ Fun fact: I enjoy music 🎶, anime 🎬,reading 📘, manhuas📖 and spending time in nature 🏞️.
 <!---
 PurveshShinde/PurveshShinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
