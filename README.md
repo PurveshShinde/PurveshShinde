@@ -8,8 +8,7 @@ I'm a passionate software developer specializing in Artificial Intelligence (AI)
 
 💞️ I'm actively seeking opportunities to collaborate on AI/ML, Data Science, and Machine Learning initiatives. Let's connect! 🤝
 
-📫 You can reach me at: 📧 [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com)
-
+📫 You can reach me at: 📧 [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com) or [https://purveshshinde.vercel.app/]
 ⚡ Fun fact: I enjoy music 🎶, anime 🎬,reading 📘, manhuas📖 and spending time in nature 🏞️.
 <!---
 PurveshShinde/PurveshShinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
