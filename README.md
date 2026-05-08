@@ -22,37 +22,46 @@ A passionate **Backend & AI/ML Developer** excited about building scalable, inte
 <img src="https://skillicons.dev/icons?i=spring,flutter,react,tailwind" alt="Frameworks" />
 
 **AI, Cloud & Deploy** <br>
-<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,vercel" alt="Cloud" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 
 **Backend & General Tools** <br>
 <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio" alt="Tools" />
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 📝 Taskify
-A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.  
-**[🚀 Live Demo](https://taskify-webapp-pro.vercel.app/)**
+<a href="https://taskify-webapp-pro.vercel.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logoColor=black" alt="Live Demo" /></a>
+#### [Taskify](https://github.com/PurveshShinde/Taskify)
+A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.
 
-#### 🎶 Emotion-Based Music Recommender
-Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.  
-**[🚀 Live Demo](https://emotion-music-recommendation.streamlit.app/)**
+<br>
 
-#### 📈 Sales Forecaster
+<a href="https://emotion-music-recommendation.streamlit.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logoColor=black" alt="Live Demo" /></a>
+#### [Emotion-Based Music Recommender](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system)
+Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
+
+<br>
+
+#### [Sales Forecaster](#)
 A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
 
-#### 🤖 Mental Health Care Chatbot
+<br>
+
+#### [Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)
 A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
 
-#### 📓 Notes Management System
+<br>
+
+#### [Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)
 A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
 
-#### ⚙️ Python Utilities
-Developed practical automation and tracking scripts, including a **Monthly Expense Tracker** and a **WiFi Password Retriever**.
+<br>
+
+#### Python Utilities
+Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
 
 ---
 
