@@ -1,71 +1,115 @@
-# 👋 Hi there, I'm Purvesh Shinde
+# 👋 Hi, I'm Purvesh Shinde
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&center=false&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&width=800&lines=B.Tech+CSE+Student;Backend+%26+AI+Developer;DSA+%2B+System+Design+Focused;Building+Scalable+Applications" alt="Typing SVG" />
 
-A passionate **Backend & AI/ML Developer** excited about building scalable, intelligent solutions and solving complex problems.
-
-### 👨🏻‍💻 About Me
-- 🎓 B.Tech Computer Science and Engineering Student at **Dnyanshree Institute of Engineering and Technology**
-- 💻 Focusing on **Backend Architecture, System Design, and AI/ML Integrations**
-- 🚀 Currently mastering **Spring Boot, LangChain, and AWS**
-- 💞️ Actively seeking opportunities to collaborate on **AI/ML, Data Science, and Machine Learning** initiatives
-- ⚡ Fun fact: When I'm not coding, I enjoy music 🎶, anime 🎬, reading 📘, manhuas 📖, and spending time in nature 🏞️
+Backend & AI-focused developer passionate about scalable systems, intelligent applications, and problem solving.
 
 ---
 
-### 🛠️ Tech Stack
+## 👨🏻‍💻 About Me
 
-**Languages & Databases** <br>
-<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" alt="Languages" />
-
-**Frameworks & Mobile** <br>
-<img src="https://skillicons.dev/icons?i=spring,flutter,react,tailwind" alt="Frameworks" />
-
-**AI, Cloud & Deploy** <br>
-<img src="https://skillicons.dev/icons?i=aws,vercel" alt="Cloud" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-
-**Backend & General Tools** <br>
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio" alt="Tools" />
+- 🎓 B.Tech Computer Science & Engineering Student  
+- 💻 Focused on Backend Development, System Design & AI Integrations  
+- 🚀 Currently learning Spring Boot, LangChain & AWS  
+- ⚡ Strong interest in scalable architectures & clean backend systems  
+- 🎶 Outside tech: music, anime, manhua, reading & nature  
 
 ---
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-<a href="https://taskify-webapp-pro.vercel.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logoColor=black" alt="Live Demo" /></a>
-#### [Taskify](https://github.com/PurveshShinde/Taskify)
-A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.
+### Languages & Databases
+<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" />
 
-<br>
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=spring,react,tailwind,flutter,git,github,vscode,androidstudio" />
 
-<a href="https://emotion-music-recommendation.streamlit.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logoColor=black" alt="Live Demo" /></a>
-#### [Emotion-Based Music Recommender](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system)
-Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
-
-<br>
-
-#### [Sales Forecaster](#)
-A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
-
-<br>
-
-#### [Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)
-A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
-
-<br>
-
-#### [Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)
-A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
-
-<br>
-
-#### Python Utilities
-Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
+### AI, Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Projects
 
-- 🌐 **Portfolio:** [purveshshinde.vercel.app](https://purveshshinde.vercel.app/)
-- 📧 **Email:** [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com)
+### 🔹 Taskify
+Production-grade MERN task management platform with JWT/OAuth authentication, workspaces, and collaboration features.
+
+🔗 [GitHub](https://github.com/PurveshShinde/Taskify) • [Live Demo](https://taskify-webapp-pro.vercel.app/)
+
+---
+
+### 🔹 Emotion-Based Music Recommender
+Real-time emotion detection system using OpenCV, CNNs, and Streamlit for mood-based playlist recommendations.
+
+🔗 [GitHub](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system) • [Live Demo](https://emotion-music-recommendation.streamlit.app/)
+
+---
+
+### 🔹 Mental Health Care Chatbot
+Interactive Python & Streamlit chatbot focused on mental wellness support and assistance.
+
+🔗 [GitHub](https://github.com/PurveshShinde/mental-health-care-chatbot)
+
+---
+
+### 🔹 Notes Management System
+Responsive PHP & MySQL CRUD application for secure personal note management.
+
+🔗 [GitHub](https://github.com/PurveshShinde/Notes_Management_System)
+
+---
+
+### 🔹 Sales Forecaster
+Machine learning regression project for retail sales prediction with Flask integration.
+
+---
+
+### 🔹 Python Utilities
+Automation-focused scripts including:
+- Monthly Expense Tracker
+- WiFi Password Retriever
+
+🔗 [Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```java
+class Purvesh {
+
+    String[] learning = {
+        "Spring Boot",
+        "System Design",
+        "AWS",
+        "LangChain",
+        "AI Integrations",
+        "Advanced DSA"
+    };
+}
