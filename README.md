@@ -15,35 +15,44 @@ A passionate **Backend & AI/ML Developer** excited about building scalable, inte
 
 ### 🛠️ Tech Stack
 
-**Languages & Databases**  
-<br>
+**Languages & Databases** <br>
 <img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" alt="Languages" />
 
-**Frameworks & Mobile**  
-<br>
+**Frameworks & Mobile** <br>
 <img src="https://skillicons.dev/icons?i=spring,flutter,react,tailwind" alt="Frameworks" />
 
-**AI, Cloud & Deploy**  
-<br>
+**AI, Cloud & Deploy** <br>
 <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-**Backend & General Tools**  
-<br>
+**Backend & General Tools** <br>
 <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio" alt="Tools" />
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Taskify](https://github.com/PurveshShinde/Taskify)** | 🚀 **[Live Demo](https://taskify-webapp-pro.vercel.app/)**<br>A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.
-- **[Emotion-Based Music Recommender](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system)** | 🚀 **[Live Demo](https://emotion-music-recommendation.streamlit.app/)**<br>Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
-- **[Sales Forecaster](#)**<br>A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
-- **[Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)**<br>A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
-- **[Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)**<br>A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
-- **Python Utilities**<br>Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
+#### 📝 Taskify
+A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.  
+**[🚀 Live Demo](https://taskify-webapp-pro.vercel.app/)**
+
+#### 🎶 Emotion-Based Music Recommender
+Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.  
+**[🚀 Live Demo](https://emotion-music-recommendation.streamlit.app/)**
+
+#### 📈 Sales Forecaster
+A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
+
+#### 🤖 Mental Health Care Chatbot
+A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
+
+#### 📓 Notes Management System
+A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
+
+#### ⚙️ Python Utilities
+Developed practical automation and tracking scripts, including a **Monthly Expense Tracker** and a **WiFi Password Retriever**.
 
 ---
 
