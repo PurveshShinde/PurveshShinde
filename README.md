@@ -17,7 +17,7 @@ A passionate **Backend & AI/ML Developer** excited about building scalable, inte
 
 **Languages & Databases**  
 <br>
-<img src="https://skillicons.dev/icons?i=java,js,mysql,python,sqlite" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" alt="Languages" />
 
 **Frameworks & Mobile**  
 <br>
@@ -38,14 +38,12 @@ A passionate **Backend & AI/ML Developer** excited about building scalable, inte
 
 ### 🚀 Featured Projects
 
-**GitMatch**  
-Smart repository/project matching platform with intelligent filtering and API discovery.
-
-**Flutter Apps**  
-Functionality-driven mobile applications focused on clean UI and AI integrations.
-
-**Full Stack Experiments**  
-Backend-heavy APIs, secure authentication systems, and scalable project architectures.
+- **[Taskify](https://github.com/PurveshShinde/Taskify)** | 🚀 **[Live Demo](https://taskify-webapp-pro.vercel.app/)**<br>A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.
+- **[Emotion-Based Music Recommender](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system)** | 🚀 **[Live Demo](https://emotion-music-recommendation.streamlit.app/)**<br>Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
+- **[Sales Forecaster](#)**<br>A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
+- **[Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)**<br>A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
+- **[Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)**<br>A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
+- **Python Utilities**<br>Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
 
 ---
 
