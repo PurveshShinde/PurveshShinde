@@ -1,115 +1,77 @@
-# 👋 Hi, I'm Purvesh Shinde
+# Hi there, I'm Purvesh Shinde
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&width=800&lines=B.Tech+CSE+Student;Backend+%26+AI+Developer;DSA+%2B+System+Design+Focused;Building+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&center=false&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
 
-Backend & AI-focused developer passionate about scalable systems, intelligent applications, and problem solving.
+A passionate Backend & AI/ML Developer excited about building scalable, intelligent solutions and solving complex problems.
 
----
-
-## 👨🏻‍💻 About Me
-
-- 🎓 B.Tech Computer Science & Engineering Student  
-- 💻 Focused on Backend Development, System Design & AI Integrations  
-- 🚀 Currently learning Spring Boot, LangChain & AWS  
-- ⚡ Strong interest in scalable architectures & clean backend systems  
-- 🎶 Outside tech: music, anime, manhua, reading & nature  
+### About Me
+- B.Tech Computer Science and Engineering Student at Dnyanshree Institute of Engineering and Technology
+- Focusing on Backend Architecture, System Design, and AI/ML Integrations
+- Currently mastering Spring Boot, LangChain, and AWS
+- Actively seeking opportunities to collaborate on AI/ML, Data Science, and Machine Learning initiatives
+- Fun fact: When I'm not coding, I enjoy music, anime, reading, manhuas, and spending time in nature
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-### Languages & Databases
-<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" />
+**Languages & Databases** <br>
+<img src="https://skillicons.dev/icons?i=java,python,js,php,mysql,sqlite" alt="Languages" />
 
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=spring,react,tailwind,flutter,git,github,vscode,androidstudio" />
+**Frameworks & Mobile** <br>
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,tailwind" alt="Frameworks" />
 
-### AI, Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-</p>
+**AI, Cloud & Deploy** <br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white" alt="Ollama" />
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 Taskify
-Production-grade MERN task management platform with JWT/OAuth authentication, workspaces, and collaboration features.
-
-🔗 [GitHub](https://github.com/PurveshShinde/Taskify) • [Live Demo](https://taskify-webapp-pro.vercel.app/)
+**Backend & General Tools** <br>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio" alt="Tools" />
 
 ---
 
-### 🔹 Emotion-Based Music Recommender
-Real-time emotion detection system using OpenCV, CNNs, and Streamlit for mood-based playlist recommendations.
+### Featured Projects
 
-🔗 [GitHub](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system) • [Live Demo](https://emotion-music-recommendation.streamlit.app/)
+#### [GitMatch](#)
+A developer-focused platform using the GitHub API to provide profile insights, smart matching, and repository exploration, with planned AI-driven issue recommendations.
 
----
+<br>
 
-### 🔹 Mental Health Care Chatbot
-Interactive Python & Streamlit chatbot focused on mental wellness support and assistance.
+<a href="https://taskify-webapp-pro.vercel.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat&logoColor=black" alt="Live Demo" /></a>
+#### [Taskify](https://github.com/PurveshShinde/Taskify)
+A scalable, production-grade MERN stack task management platform featuring secure JWT/OAuth authentication, team workspaces, and real-time collaboration.
 
-🔗 [GitHub](https://github.com/PurveshShinde/mental-health-care-chatbot)
+<br>
 
----
+<a href="https://emotion-music-recommendation.streamlit.app/"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat&logoColor=black" alt="Live Demo" /></a>
+#### [Emotion-Based Music Recommender](https://github.com/PurveshShinde/Emotion-based-music-recommendation-system)
+Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
 
-### 🔹 Notes Management System
-Responsive PHP & MySQL CRUD application for secure personal note management.
+<br>
 
-🔗 [GitHub](https://github.com/PurveshShinde/Notes_Management_System)
+#### [Sales Forecaster](#)
+A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
 
----
+<br>
 
-### 🔹 Sales Forecaster
-Machine learning regression project for retail sales prediction with Flask integration.
+#### [Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)
+A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
 
----
+<br>
 
-### 🔹 Python Utilities
-Automation-focused scripts including:
-- Monthly Expense Tracker
-- WiFi Password Retriever
+#### [Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)
+A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
 
-🔗 [Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)
+<br>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+#### Python Utilities
+Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
 
 ---
 
-## 📈 Activity Graph
+### Let's Connect
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-```java
-class Purvesh {
-
-    String[] learning = {
-        "Spring Boot",
-        "System Design",
-        "AWS",
-        "LangChain",
-        "AI Integrations",
-        "Advanced DSA"
-    };
-}
+- **Portfolio:** [purveshshinde.vercel.app](https://purveshshinde.vercel.app/)
+- **Email:** [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com)
