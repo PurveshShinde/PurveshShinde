@@ -51,23 +51,9 @@ Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and S
 
 <br>
 
-#### [Sales Forecaster](#)
-A machine learning regression model integrated into a Flask web application to predict future retail sales based on historical data.
-
-<br>
-
-#### [Mental Health Care Chatbot](https://github.com/PurveshShinde/mental-health-care-chatbot)
-A Python and Streamlit-based interactive chatbot application designed to provide mental wellness support and resources.
-
-<br>
 
 #### [Notes Management System](https://github.com/PurveshShinde/Notes_Management_System)
 A secure, responsive web application built with PHP and MySQL for CRUD-based personal note organization and user management.
-
-<br>
-
-#### Python Utilities
-Developed practical automation and tracking scripts, including a **[Monthly Expense Tracker](https://github.com/PurveshShinde/Monthly-Expense-tracker)** and a **[WiFi Password Retriever](#)**.
 
 ---
 
