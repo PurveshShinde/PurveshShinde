@@ -1,17 +1,55 @@
-👋 Hi there! I'm Purvesh Shinde.
+# 👋 Hi there, I'm Purvesh Shinde
 
-I'm a passionate software developer specializing in Artificial Intelligence (AI) and Machine Learning (ML). 🤖💻 I'm excited about building intelligent solutions and collaborating on innovative projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&center=false&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
 
-👀 I'm currently exploring the latest advancements in technology.
+A passionate **Backend & AI/ML Developer** excited about building scalable, intelligent solutions and solving complex problems.
 
-🌱 I'm studying Computer Science and Engineering at Dnyanshree Institute of Engineering and Technology. 🎓
+### 👨🏻‍💻 About Me
+- 🎓 B.Tech Computer Science and Engineering Student at **Dnyanshree Institute of Engineering and Technology**
+- 💻 Focusing on **Backend Architecture, System Design, and AI/ML Integrations**
+- 🚀 Currently mastering **Spring Boot, LangChain, and AWS**
+- 💞️ Actively seeking opportunities to collaborate on **AI/ML, Data Science, and Machine Learning** initiatives
+- ⚡ Fun fact: When I'm not coding, I enjoy music 🎶, anime 🎬, reading 📘, manhuas 📖, and spending time in nature 🏞️
 
-💞️ I'm actively seeking opportunities to collaborate on AI/ML, Data Science, and Machine Learning initiatives. Let's connect! 🤝
+---
 
-📫 You can reach me at: 📧 [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com) or https://purveshshinde.vercel.app/
+### 🛠️ Tech Stack
 
-⚡ Fun fact: I enjoy music 🎶, anime 🎬,reading 📘, manhuas📖 and spending time in nature 🏞️.
-<!---
-PurveshShinde/PurveshShinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Databases**  
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,mysql,python,sqlite" alt="Languages" />
+
+**Frameworks & Mobile**  
+<br>
+<img src="https://skillicons.dev/icons?i=spring,flutter,react,tailwind" alt="Frameworks" />
+
+**AI, Cloud & Deploy**  
+<br>
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+**Backend & General Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio" alt="Tools" />
+
+---
+
+### 🚀 Featured Projects
+
+**GitMatch**  
+Smart repository/project matching platform with intelligent filtering and API discovery.
+
+**Flutter Apps**  
+Functionality-driven mobile applications focused on clean UI and AI integrations.
+
+**Full Stack Experiments**  
+Backend-heavy APIs, secure authentication systems, and scalable project architectures.
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 **Portfolio:** [purveshshinde.vercel.app](https://purveshshinde.vercel.app/)
+- 📧 **Email:** [shindepurvesh007@gmail.com](mailto:shindepurvesh007@gmail.com)
