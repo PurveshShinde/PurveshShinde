@@ -52,8 +52,8 @@ A real-time developer collaboration platform integrating external APIs for live 
 
 <br>
 
-### <a href="https://github.com/PurveshShinde/OCSafe-Cyberguard" target="_blank"><img align="right" src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat&logo=github&logoColor=black" alt="Source Code" /></a><a href="https://github.com/PurveshShinde/OCSafe-Cyberguard" target="_blank">OCSafe-Cyberguard</a>
-A proactive mobile security shield built with Flutter. Features on-device smart scanning, SMS phishing detection, and a snatch-detection algorithm to lock your device.
+### <a href="https://github.com/PurveshShinde/Slothify" target="_blank"><img align="right" src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat&logo=github&logoColor=black" alt="Source Code" /></a><a href="https://slothify.vercel.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat&logoColor=black" alt="Live Demo" /></a><a href="https://github.com/PurveshShinde/Slothify" target="_blank">Slothify</a>
+A modern, ad-free, high-fidelity music streaming platform powered by open-source APIs & community plugins. Features multi-source audio routing via JioSaavn & YouTube with automated fallback, Spotify & iTunes-powered catalog discovery, encrypted library persistence, and dynamic visual themes.
 
 <br>
 
@@ -62,24 +62,19 @@ A scalable, production-grade MERN stack task management platform featuring secur
 
 <br>
 
-### <a href="https://github.com/PurveshShinde/ReproForge" target="_blank"><img align="right" src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat&logo=github&logoColor=black" alt="Source Code" /></a><a href="https://repro-forge-five.vercel.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat&logoColor=black" alt="Live Demo" /></a><a href="https://github.com/PurveshShinde/ReproForge" target="_blank">ReproForge</a>
-An AI-powered autonomous debugging pipeline that traces failing tests, identifies root causes, and generates verified code fixes. Built for the IBM Bob 2.0 Hackathon.
+### <a href="https://github.com/PurveshShinde/OCSafe-Cyberguard" target="_blank"><img align="right" src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat&logo=github&logoColor=black" alt="Source Code" /></a><a href="https://github.com/PurveshShinde/OCSafe-Cyberguard" target="_blank">OCSafe-Cyberguard</a>
+A proactive mobile security shield built with Flutter. Features on-device smart scanning, SMS phishing detection, and a snatch-detection algorithm to lock your device.
 
-<br>
-
-### <a href="https://github.com/PurveshShinde/Emotion-based-music-recommendation-system" target="_blank"><img align="right" src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat&logo=github&logoColor=black" alt="Source Code" /></a><a href="https://emotion-music-recommendation.streamlit.app/" target="_blank"><img align="right" src="https://img.shields.io/badge/Live_Demo-00F7FF?style=flat&logoColor=black" alt="Live Demo" /></a><a href="https://github.com/PurveshShinde/Emotion-based-music-recommendation-system" target="_blank">Emotion-Based Music Recommender</a>
-Real-time facial emotion detection app using OpenCV, deep learning (CNNs), and Streamlit to curate mood-based playlists.
 
 ---
 
 ### Certifications
 
-- **Software Engineering Virtual Experience** | JPMorgan Chase (Forage)
 - **Java Full Stack Developer Virtual Internship** | EduSkills
-- **Artificial Intelligence Internship** | IBM SkillsBuild
+- **The Complete JavaScript Course** | Udemy (by Jonas Schmedtmann)
 - **Introduction to OpenShift Applications (DO101)** | Red Hat
 - **Linux Fundamentals (RH104)** | Red Hat
-- **The Complete JavaScript Course** | Udemy (by Jonas Schmedtmann)
+- **Software Engineering Virtual Experience** | JPMorgan Chase (Forage)
 
 ---
 
